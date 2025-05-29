@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawonNirob&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shawonNirob&show_icons=false&hide=stars,commits,prs,issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawonNirob&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawonNirob" alt="GitHub Streak" />
 </p>
+
 
 
 <!--
